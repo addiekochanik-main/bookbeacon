@@ -1,6 +1,6 @@
 # 📚 BookBeacon
 
-**Status:** Just Started · Actively Working On
+**Status:** Actively Working On
 
 **Tech Stack:** Python · Pandas · NumPy · Matplotlib · Jupyter
 
